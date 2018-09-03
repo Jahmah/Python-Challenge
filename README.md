@@ -1,2 +1,2 @@
 # Python-Challenge
-Python Scripts
+Python Scripts for analyzing financial records
